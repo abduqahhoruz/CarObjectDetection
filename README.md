@@ -1,6 +1,6 @@
 # CarObjectDetection
 
 ##  Used libraries
--AndroidX
--Kotlin Language
--Tensorflow
+- AndroidX
+- Kotlin Language
+- Tensorflow
